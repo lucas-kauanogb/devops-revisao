@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 
 def mensagem():
-    return "Olá, DevOps!"
+    return "Bem-vindo à revisão de DevOps!"
 
 
 @app.route("/")
